@@ -8,5 +8,6 @@
 *.sublime-workspace
 
 # ignore certain folders
+.private
 
 # ignore specific files
